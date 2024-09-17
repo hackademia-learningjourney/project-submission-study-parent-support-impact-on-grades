@@ -1,0 +1,1 @@
+Create an interactive dashboard that visualizes the correlation between study hours per week, levels of parental support, and student performance. Use regression analysis to explore the strength of these relationships and provide actionable insights for educators.
